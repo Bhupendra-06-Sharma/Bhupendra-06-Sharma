@@ -1,4 +1,4 @@
-<h2 align="center"># Hi there, I'm Bhupendra Sharma 👋</h2>
+<h2 align="center">Hi there, I'm Bhupendra Sharma</h2>
 
 ### 💫 About Me
 - 🔭 **Currently working on:** [Your project name or 'Improving my dev skills']
@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=Bhupendra-06-sharma&theme=tokyonight&hide_border=true" />
+  <img width="65%" src="https://nirzak-streak-stats.vercel.app/?user=Bhupendra-06-sharma&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
