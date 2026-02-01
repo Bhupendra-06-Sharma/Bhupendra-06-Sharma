@@ -1,17 +1,42 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hi there, I'm Bhupendra Sharma 👋
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Bhupendra-06-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="Bhupendra-06-sharma" />
+</p>
+
+### 💫 About Me
+- 🔭 **Currently working on:** [Your project name or 'Improving my dev skills']
+- 👯 **Looking to collaborate on:** Open Source Python or Web Dev projects.
+- 🤝 **Looking for help with:** Advanced JavaScript frameworks.
+- 🌱 **Learning:** React.js and Backend Architecture.
+- 💬 **Ask me about:** Python, UI Design, or CSS tricks.
+- ⚡ **Fun fact:** I can spend hours debugging a single semicolon and enjoy every second (mostly).
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Design** | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+
+---
+
+### 📊 GitHub Analytics
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.bhupendrasharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bhupendrasharma-x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhupendra09x@gmail.com) 
+<p align="center">
+  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=Bhupendra-06-sharma&theme=tokyonight&hide_border=true" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhupendra-06-sharma&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bhupendra-06-sharma&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra-06-sharma&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
 
-[![](https://visitcount.itsvg.in/api?id=Bhupendra-06-sharma&icon=0&color=0)](https://visitcount.itsvg.in)
-
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/bhupendrasharma-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupendrasharma-x" height="30" width="40" /></a>
+<a href="https://instagram.com/i.bhupendrasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.bhupendrasharma" height="30" width="40" /></a>
+<a href="mailto:bhupendra09x@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
