@@ -1,8 +1,4 @@
-<p align="center"># Hi there, I'm Bhupendra Sharma 👋</p>
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Bhupendra-06-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="Bhupendra-06-sharma" />
-</p>
+<h2 align="center"># Hi there, I'm Bhupendra Sharma 👋</h2>
 
 ### 💫 About Me
 - 🔭 **Currently working on:** [Your project name or 'Improving my dev skills']
@@ -25,8 +21,6 @@
 ---
 
 ### 📊 GitHub Analytics
-
-
 <p align="center">
   <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=Bhupendra-06-sharma&theme=tokyonight&hide_border=true" />
 </p>
