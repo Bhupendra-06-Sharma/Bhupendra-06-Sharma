@@ -1,4 +1,4 @@
-# Hi there, I'm Bhupendra Sharma 👋
+<p align="center"># Hi there, I'm Bhupendra Sharma 👋</p>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Bhupendra-06-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="Bhupendra-06-sharma" />
