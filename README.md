@@ -29,7 +29,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/bhupendrasharma-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupendrasharma-x" height="25" width=40" /></a>
+<a href="www.linkedin.com/in/bhupendrasharma-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupendrasharma-x" height="25" width=40" /></a>
 <a href="https://instagram.com/i.bhupendrasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.bhupendrasharma" height="25" width="40" /></a>
 <a href="mailto:bhupendra09x@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" /></a>
 </p>
