@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img width="65%" src="https://nirzak-streak-stats.vercel.app/?user=Bhupendra-06-sharma&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=Bhupendra-06-sharma&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
